@@ -72,4 +72,4 @@
 </table>
 
 ## 📊 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EdinsonGomez&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EdinsonGomez&layout=compact&theme=react)
